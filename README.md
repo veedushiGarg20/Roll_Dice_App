@@ -1,17 +1,13 @@
-# first_app
+# 🎲 Roll Dice App
 
-A new Flutter project.
+A simple Flutter app that simulates rolling a dice. This beginner-friendlly project displays a dice on the screen, and upon clicking the button, the dice randomizes to show a new number.
 
-## Getting Started
+## Features
+- Displays a six-sided dice
+- Button to roll the dice and generate a random number
+- Smooth UI with instant results
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# roll_dice
+## How It Works
+1. Tap the "Roll Dice" button
+2. The dice number changes randomly
+3. Enjoy rolling the dice as many times you want!
